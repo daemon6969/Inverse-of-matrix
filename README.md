@@ -13,7 +13,9 @@ To write a python program to find the inverse of a matrix.
 
 
 ## PROGRAM:
-```import numpy as np
+Developed by: S.E.Elamaran
+RegisterNumber: 22000420```
+import numpy as np
 r,c=int(input()),int(input())
 l1,l2=[],[]
 for i in range(c):
